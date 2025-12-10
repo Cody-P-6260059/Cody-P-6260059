@@ -3,7 +3,7 @@
 🎓 **Computer Science Student @ John Abbott College (2023 – 2026)**  
 📍 Montreal, Quebec, Canada  
 ✉️ [petronecody01@gmail.com](mailto:petronecody01@gmail.com)
-🔗 [LinkedIn](www.linkedin.com/in/codypetrone)
+🔗 [LinkedIn](https://www.linkedin.com/in/codypetrone/)
 
 ---
 
