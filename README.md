@@ -25,9 +25,8 @@ const cody = {
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="25" height="25"/> Featured Project
 
-#### 🏆 Remoto — McGill CodeJam 15 Winner
+#### Remoto — McGill CodeJam 15 Winner
 
-![Winner](https://img.shields.io/badge/🏆%20Winner-McGill%20CodeJam%2015-FFD700?style=flat-square&labelColor=2c2c2c)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
